@@ -4,7 +4,7 @@ Welcome to the team! This document provides a comprehensive overview of how **Us
 
 ---
 
-![Authentication Flow Diagram](/C:/Users/rufuz/.gemini/antigravity/brain/d4cc4d45-eb64-45a9-a4ca-4aa88f0a9ba1/auth_flow_diagram_1777185264751.png)
+![Authentication Flow Diagram](https://getshared.com/dashboard/api/files/2c49b76c-413c-11f1-8264-ac1f6b763f30/stream?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQyNTkzLCJlbWFpbCI6ImFoc2FudWxsYWhhcmlmdWw2NDYwQGdtYWlsLmNvbSIsImlhdCI6MTc3NzE4NjE1OSwiZXhwIjoxNzc5Nzc4MTU5fQ.7w7Q_nhtnW7z-sO5wvZVYeOKrwLwwN30QrskOg63LwY&t=1777186286439)
 
 ---
 
